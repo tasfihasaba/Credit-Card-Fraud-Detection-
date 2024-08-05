@@ -11,3 +11,9 @@ The dataset used for this project is from the Kaggle Credit Card Fraud Detection
 - **notebooks**: Jupyter notebooks with data exploration, preprocessing, model training, and evaluation.
 - **models**: Serialized trained models.
 - **src**: Source code for data preprocessing, model training, and evaluation.
+
+
+## Installation
+To run this project, you need Python and the following libraries:
+```bash
+
